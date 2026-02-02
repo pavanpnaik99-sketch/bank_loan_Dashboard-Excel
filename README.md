@@ -110,6 +110,5 @@ Data Analyst | Advanced Excel | Dashboarding | Financial Analysis
 
 ## 📷 Dashboard Preview
 
-
-![Loan Performance & Risk Analysis Dashboard]("Dashboard.png")
+[![Loan Performance & Risk Analysis Dashboard]("Dashboard.png")](https://github.com/pavanpnaik99-sketch/bank_loan_Dashboard-Excel/blob/main/Dashboard.png)
 
