@@ -110,5 +110,6 @@ Data Analyst | Advanced Excel | Dashboarding | Financial Analysis
 
 ## 📷 Dashboard Preview
 
-("Dashboard.png")](https://github.com/pavanpnaik99-sketch/bank_loan_Dashboard-Excel/blob/main/Dashboard.png)
+[Dashboard.png](https://github.com/pavanpnaik99-sketch/bank_loan_Dashboard-Excel/blob/main/Dashboard.png)
+
 
